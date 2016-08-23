@@ -1,0 +1,12 @@
+{
+  "name": "todo",
+  "version": "1.0.0",
+  "description": "study",
+  "main": "main.js",
+  "keywords": [
+    "electron",
+    "todo"
+  ],
+  "author": "asterisk",
+  "license": "MIT"
+}
